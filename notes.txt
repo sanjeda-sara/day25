@@ -1,0 +1,79 @@
+browser info inram
+eg chrome ram khay
+browser al long as on, totokkon temporoary session store koe
+
+$_SESSION -- to control session array
+index dhore value boshabo session e
+session arrayr name city index dhore val dilam
+session index.php te likhsi and this must be executed first...
+and in the view file home.php, index.php te rakha data pawar jonne view file eo session start korbo
+session start korar aage you always have to start it first
+
+unset -- deletes particular indexes and values when needed
+destroy- destroys everything, entirely
+session id - random ekta key generate kore which is never the same
+
+
+
+view file theke interface er kono object bannano jayna, only methis
+
+
+
+to use interface -- 
+use App\classes\InterfaceClass;
+class Student extends User implements InterfaceClass
+view theke interface e object banano jayna
+
+interface er method er body pawa must!!!!!!!!
+
+parent er public and protected paay only, not private in 
+
+ekta class e arekta class er object banano jaay
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+erroe: undefined index and undefined array key?????????????????????????--for boewser version difference
